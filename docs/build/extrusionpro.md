@@ -108,7 +108,7 @@ Some examples of extrusion times for some moulds:
 * [How-to: make a T profile](https://community.preciousplastic.com/how-to/make-a-tshape-beam-)
 * [Hack: Quick release nozzle](https://community.preciousplastic.com/how-to/make-a-quick-release-for-the-extrusion-machine)
 * [Hack: Flat nozzle ](https://community.preciousplastic.com/how-to/make-a-flat-nozzle-for-the-extrusion-machine)
-* [Documentation of screw](http://www.mie.uth.gr/ekp_yliko/_Chapter_5a.pdf)
+* [Documentation of screw](https://web.archive.org/web/20200110072831/http://www.mie.uth.gr:80/ekp_yliko/_Chapter_5a.pdf)
 * [Documentation](http://www.polydynamics.com/Rheology.pdf)
 * [Documentation of hopper cones](http://craig-russell.co.uk/demos/cone_calculator/)
 * [Documentation](http://www.mvt.ovgu.de/mvt_media/Vorlesungen/Lecture_SFPS/Folien_SFPS_4-p-2002.pdf)
